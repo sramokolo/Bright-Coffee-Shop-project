@@ -22,14 +22,7 @@ Visualization: Microsoft Excel and Google Looker
 Presentation & Design: Microsoft PowerPoint and Miro
 
 Project Tasks
-Task 1: Planning & Architecture
 
 Designed data flow & architecture diagram (ETL process, storage in Snowflake, analysis & visualization).
 
-Task 2: Outlined key metrics:
-
-Sales by product category & time interval
-
-Revenue calculations
-
-High-performing vs. low-performing products
+Outlined key metrics(Sales by product category & time interval,Revenue calculations,High performing vs low performing products& stores)
