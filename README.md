@@ -1,34 +1,35 @@
 # Bright-Coffee-Shop-project
 
-1.Introduction 
+This project analyzes historical transactional data from Bright Coffee Shop to provide business insights for a newly appointed CEO.
+The objective is to identify revenue drivers, peak performance times and sales trends while offering data-driven recommendations to improve overall sales performance.
 
-Bright Coffee shop recently appointed a new CEO whose mission is to grow the company’s revenue and improve product performance. To support the CEO’s mission actionable insights must be prepared based on the historic sales performance data and be presented to assist the CEO in decision-making. 
+Objectives
 
-2. Objective 
+Identify products generating the most revenue
 
-To understand: 
+Analyze sales performance by time of day
 
-• Which products generate the most revenue
+Discover sales trends across products and intervals
 
-•  What time of day the store performs best 
+Provide recommendations to improve sales and product performance
 
-• Sales trends across products and time intervals
+Tools used
 
-• Recommendations for improving sales performance 
+Data Processing:& Snowflake
 
-3. Methodology
-Process historic sales data from the 3 store locations of Bright Coffee shop in SQL snowflake. Perform data wrangling by creating a database (brightlight), schema (Coffee_sales) and table (Shop). Aggregate data and use case statement to come up with dates (Month, day category, day name), Calculating revenue by using SUM, identifying distinct store ID, product ID and transaction ID. The processed data was transferred to excel to produce tables and graphs to satisfy the objectives of the analysis. Dashboard was produces to allow the CEO to be able to find any insights live. A presentation was also prepared for the CEO.
+Visualization: Microsoft Excel and Google Looker
 
-4. Tools used
-    
-• Snowflake 
-Data Visualization: 
+Presentation & Design: Microsoft PowerPoint and Miro
 
-• Microsoft Excel
+Project Tasks
+Task 1: Planning & Architecture
 
-• Google Looker
+Designed data flow & architecture diagram (ETL process, storage in Snowflake, analysis & visualization).
 
-Presentation & Reporting: 
-• Microsoft PowerPoint 
+Task 2: Outlined key metrics:
 
-• Miro 
+Sales by product category & time interval
+
+Revenue calculations
+
+High-performing vs. low-performing products
